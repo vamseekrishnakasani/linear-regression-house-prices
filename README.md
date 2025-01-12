@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # Data-Visualization
-=======
+
 # Linear Regression for House Price Prediction
 
 This repository demonstrates the implementation of a **Linear Regression Model** to predict house prices based on their size. The model is built from scratch using Python, without predefined libraries for model creation. It includes:
@@ -31,4 +31,3 @@ This repository demonstrates the implementation of a **Linear Regression Model**
   ```python
   x_train = np.array([1.0, 2.0, 3.0, 4.0, 5.0, 6.0])
   y_train = np.array([300.0, 400.0, 500.0, 600.0, 700.0, 800.0])
->>>>>>> 6644e618f1fe9b5bad9e543c955f912c96fd800e
